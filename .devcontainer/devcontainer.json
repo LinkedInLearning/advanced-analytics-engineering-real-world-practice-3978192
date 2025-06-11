@@ -32,8 +32,19 @@
 				"mtxr.sqltools",
 				"mtxr.sqltools-driver-mysql",
 				"innoverio.vscode-dbt-power-user",
-				"monotykamary.inline-yaml"
+				"monotykamary.inline-yaml",
+				"ms-azuretools.vscode-docker" // <--- Add the official Docker extension here
 			]
+		}
+	},
+	// Add this entire 'features' section
+	"features": {
+		// This feature installs the Docker CLI and optionally Docker Compose into your 'app' container.
+		// It also configures access to the Docker daemon.
+		"ghcr.io/devcontainers/features/docker:1": {
+			"version": "latest",
+			"moby": true, // 'moby: true' ensures the Docker daemon and CLI are installed
+			"dockerDashComposeVersion": "v2" // This ensures 'docker compose' (with space) is available
 		}
 	},
 	"postCreateCommand": "sudo sh .devcontainer/startup.sh; pip install --user -r requirements.txt",
