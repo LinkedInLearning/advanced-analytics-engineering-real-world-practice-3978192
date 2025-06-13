@@ -1,4 +1,4 @@
-EmpID,EmpName,EmpTitle,SalesReg,OrderNum,OrderDate,OrderType,CustType,CustID,CustName,CustState,ProdCategory,ProdNumber,ProdName,Quantity,Price,Discount,Order Total
+EmpID,EmpName,EmpTitle,SalesReg,OrderNum,OrderDate,OrderType,CustType,CustID,CustName,CustState,ProdCategory,ProdNumber,ProdName,Quantity,Price,Discount,OrderTotal
 900018483,Kendra Barnbrook,Senior Sales Associate,S Central East,1103796,1/1/2022,Retail,Individual,4005111,Kennedy Richardson,Missouri,Solar panels,KESP200,K-Eco 200,4,654,0,2616
 900010453,Susan Fetterman,Senior Sales Representative,Central East,1103797,1/1/2022,Retail,Individual,4004616,Alice Bennett,North Carolina,Solar panels,KESP255,K-Eco 250x,2,869,0,1738
 900018483,Kendra Barnbrook,Senior Sales Associate,S Central East,1103802,1/1/2022,Retail,Individual,4004947,Kiera Ramos,Texas,Landscape lighting,KESC100,Security lights,4,65.5,0,262
