@@ -1,0 +1,396 @@
+<Products>
+  <Batteries>
+    <Product>
+      <ProdNumber>KEBA312</ProdNumber>
+      <ProdName>K-Eco AAA NiMH rechargeable batteries (12-pack)</ProdName>
+      <Price>13.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEBA308</ProdNumber>
+      <ProdName>K-Eco AAA NiMH rechargeable batteries (8-pack)</ProdName>
+      <Price>9.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEBA212</ProdNumber>
+      <ProdName>K-Eco AA NiMH rechargeable batteries (12-pack)</ProdName>
+      <Price>21.59</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEBB048</ProdNumber>
+      <ProdName>K-Eco 48-volt Lithium-ion solar backup battery</ProdName>
+      <Price>13233.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEBB018</ProdNumber>
+      <ProdName>K-Eco 18-volt Lithium-ion solar backup battery</ProdName>
+      <Price>5800.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEBA208</ProdNumber>
+      <ProdName>K-Eco AA NiMH rechargeable batteries (8-pack)</ProdName>
+      <Price>14.39</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEBB036</ProdNumber>
+      <ProdName>K-Eco 36-volt Lithium-ion solar backup battery</ProdName>
+      <Price>8100.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEBB012</ProdNumber>
+      <ProdName>K-Eco 12-volt Lithium-ion solar backup battery</ProdName>
+      <Price>5100.0</Price>
+    </Product>
+  </Batteries>
+  <EV_charger>
+    <Product>
+      <ProdNumber>KEEV002</ProdNumber>
+      <ProdName>Car charger - L2</ProdName>
+      <Price>1900.0</Price>
+    </Product>
+  </EV_charger>
+  <Grid_Tie_Inverters>
+    <Product>
+      <ProdNumber>KIGT013</ProdNumber>
+      <ProdName>K-Invert 13K</ProdName>
+      <Price>3510.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KIGT020</ProdNumber>
+      <ProdName>K-Invert 20K</ProdName>
+      <Price>3600.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KIGT004</ProdNumber>
+      <ProdName>K-Invert 4K</ProdName>
+      <Price>1430.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KIGT009</ProdNumber>
+      <ProdName>K-Invert 9K</ProdName>
+      <Price>2430.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KIGT002</ProdNumber>
+      <ProdName>K-Invert 2K</ProdName>
+      <Price>1156.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KIGT007</ProdNumber>
+      <ProdName>K-Invert 7K</ProdName>
+      <Price>1890.0</Price>
+    </Product>
+  </Grid_Tie_Inverters>
+  <Landscape_lighting>
+    <Product>
+      <ProdNumber>KESC100</ProdNumber>
+      <ProdName>Security lights</ProdName>
+      <Price>65.5</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KERL500</ProdNumber>
+      <ProdName>Rope lights - Purple</ProdName>
+      <Price>26.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KECL060</ProdNumber>
+      <ProdName>Bistro String lights - 60 ft - Multicolor</ProdName>
+      <Price>59.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KECL100</ProdNumber>
+      <ProdName>Bistro String lights - 100 ft- Multicolor</ProdName>
+      <Price>89.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEBL100</ProdNumber>
+      <ProdName>Bistro String lights - 100 ft - white</ProdName>
+      <Price>65.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KERL100</ProdNumber>
+      <ProdName>Rope lights - White</ProdName>
+      <Price>26.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KERL700</ProdNumber>
+      <ProdName>Rope lights - Blue</ProdName>
+      <Price>26.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEPL004</ProdNumber>
+      <ProdName>K-Eco Solar path light (4-pack)</ProdName>
+      <Price>29.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEBL060</ProdNumber>
+      <ProdName>Bistro String lights - 60 ft - white</ProdName>
+      <Price>46.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEWS008</ProdNumber>
+      <ProdName>Solar wall sconces (8pk)</ProdName>
+      <Price>58.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEBL040</ProdNumber>
+      <ProdName>Bistro String lights - 40 ft - white</ProdName>
+      <Price>27.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEPL012</ProdNumber>
+      <ProdName>K-Eco Solar path light (12-pack)</ProdName>
+      <Price>89.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEWS004</ProdNumber>
+      <ProdName>Solar wall sconces (4pk)</ProdName>
+      <Price>32.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEPL001</ProdNumber>
+      <ProdName>K-Eco Solar path light</ProdName>
+      <Price>10.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KERL555</ProdNumber>
+      <ProdName>Rope lights - Multicolor</ProdName>
+      <Price>26.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KERL300</ProdNumber>
+      <ProdName>Rope lights - Red</ProdName>
+      <Price>26.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KECL040</ProdNumber>
+      <ProdName>Bistro String lights - 40 ft - Multicolor</ProdName>
+      <Price>45.5</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEPL008</ProdNumber>
+      <ProdName>K-Eco Solar path light (8-pack)</ProdName>
+      <Price>55.05</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KERL600</ProdNumber>
+      <ProdName>Rope lights - Green</ProdName>
+      <Price>26.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KERL400</ProdNumber>
+      <ProdName>Rope lights - Orange</ProdName>
+      <Price>26.99</Price>
+    </Product>
+  </Landscape_lighting>
+  <Lightbulbs>
+    <Product>
+      <ProdNumber>KESL094</ProdNumber>
+      <ProdName>K-Eco Smart Bulbs 9W dimmable (4-pack)</ProdName>
+      <Price>29.25</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB094</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 9W (4-pack)</ProdName>
+      <Price>12.97</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB234</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 23W (4-pack)</ProdName>
+      <Price>18.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB208</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 20W (8-pack)</ProdName>
+      <Price>28.7</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB204</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 20W (4-pack)</ProdName>
+      <Price>17.5</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB138</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 13W (8-pack)</ProdName>
+      <Price>24.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KERL200</ProdNumber>
+      <ProdName>Smart Rope lights - Color changing</ProdName>
+      <Price>35.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB092</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 9W (2-pack)</ProdName>
+      <Price>7.53</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB098</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 9W (8-pack)</ProdName>
+      <Price>22.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB238</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 23W (8-pack)</ProdName>
+      <Price>29.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB134</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 13W (4-pack)</ProdName>
+      <Price>15.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESL194</ProdNumber>
+      <ProdName>K-Eco Smart Bulbs 9W color change (4-pack)</ProdName>
+      <Price>29.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESL192</ProdNumber>
+      <ProdName>K-Eco Smart Bulbs 9W color change (2-pack)</ProdName>
+      <Price>15.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB232</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 23W (2-pack)</ProdName>
+      <Price>11.39</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESL092</ProdNumber>
+      <ProdName>K-Eco Smart Bulbs 9W dimmable (2-pack)</ProdName>
+      <Price>15.2</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB202</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 20W (2-pack)</ProdName>
+      <Price>9.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB092</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 13W (2-pack)</ProdName>
+      <Price>8.5</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KELB123</ProdNumber>
+      <ProdName>K-Eco Energy Bulbs 13W (2-pack)</ProdName>
+      <Price>8.5</Price>
+    </Product>
+  </Lightbulbs>
+  <Solar_panels>
+    <Product>
+      <ProdNumber>KESP200</ProdNumber>
+      <ProdName>K-Eco 200</ProdName>
+      <Price>654.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP255</ProdNumber>
+      <ProdName>K-Eco 250x</ProdName>
+      <Price>869.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP275</ProdNumber>
+      <ProdName>K-Eco 275</ProdName>
+      <Price>899.25</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP250</ProdNumber>
+      <ProdName>K-Eco 250</ProdName>
+      <Price>817.5</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP326</ProdNumber>
+      <ProdName>K-Eco 325x</ProdName>
+      <Price>1052.09</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP300</ProdNumber>
+      <ProdName>K-Eco 300</ProdName>
+      <Price>981.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP001</ProdNumber>
+      <ProdName>K-Eco phone charger</ProdName>
+      <Price>44.89</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP180</ProdNumber>
+      <ProdName>K-Eco 180</ProdName>
+      <Price>588.6</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP575</ProdNumber>
+      <ProdName>K-Eco 575</ProdName>
+      <Price>1006.25</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP700</ProdNumber>
+      <ProdName>K-Eco 700</ProdName>
+      <Price>2289.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP225</ProdNumber>
+      <ProdName>K-Eco 225</ProdName>
+      <Price>735.75</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP325</ProdNumber>
+      <ProdName>K-Eco 325</ProdName>
+      <Price>1062.75</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP060</ProdNumber>
+      <ProdName>K-Eco Mini</ProdName>
+      <Price>89.99</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP450</ProdNumber>
+      <ProdName>K-Eco 450</ProdName>
+      <Price>1471.5</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KESP625</ProdNumber>
+      <ProdName>K-Eco 625</ProdName>
+      <Price>1430.63</Price>
+    </Product>
+  </Solar_panels>
+  <Wind_harvester>
+    <Product>
+      <ProdNumber>KEWH005</ProdNumber>
+      <ProdName>K-Eco Breeze Mini</ProdName>
+      <Price>55.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEWH200</ProdNumber>
+      <ProdName>K-Eco Blast 200</ProdName>
+      <Price>550.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEWH600</ProdNumber>
+      <ProdName>K-Eco Blast 600</ProdName>
+      <Price>1025.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEWH800</ProdNumber>
+      <ProdName>K-Eco Blast 800</ProdName>
+      <Price>1280.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEWH120</ProdNumber>
+      <ProdName>K-Eco Blast 1200</ProdName>
+      <Price>2300.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEWH100</ProdNumber>
+      <ProdName>K-Eco Blast 100</ProdName>
+      <Price>280.0</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEWH401</ProdNumber>
+      <ProdName>K-Eco Blast 400x</ProdName>
+      <Price>1000.25</Price>
+    </Product>
+    <Product>
+      <ProdNumber>KEWH400</ProdNumber>
+      <ProdName>K-Eco Blast 400</ProdName>
+      <Price>880.0</Price>
+    </Product>
+  </Wind_harvester>
+</Products>
