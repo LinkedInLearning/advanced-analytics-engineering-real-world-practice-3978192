@@ -1,0 +1,58 @@
+EmpID,EmpName,EmpTitle,SalesReg,OrderNum,OrderDate,OrderType,CustType,CustID,CustName,CustState,ProdCategory,ProdNumber,ProdName,Quantity,Price,Discount,OrderTotal
+900010453,Susan Fetterman,Senior Sales Representative,Central East,1204001,"2024-01-03",Retail,Individual,4007001,Chloe Ingram,Florida,Solar panels,KESP255,K-Eco 250x,1,869,0,869
+900012349,Clement Carry,Sales Associate I,Southeast,1204002,"2024-01-05",Retail,Individual,,Kevin Dunn,Texas,Lightbulbs,KELB234,K-Eco Energy Bulbs 23W (4-pack),3,18.99,0,56.97
+900016320,Paul Massimo,Sales Associate II,S Central East,1204003,"2024-01-07",Retail,Business,6007012,Evergreen Tech,Texas,Landscape lighting,KESC100,Security lights,,65.5,0,262
+900019273,Michelle Tiffany,Sales Representative,Central East,1204004,"2024-01-09",Wholesale,Individual,4007123,Nico Vargas,Arizona,Batteries,KEBA312,K-Eco AAA NiMH rechargeable batteries (12-pack),4,,0,55.96
+900018483,Kendra Barnbrook,Senior Sales Associate,S Central East,1204005,"2024-01-10",Retail,Individual,4007044,Harley Poole,Louisiana,Landscape lighting,KESC100,Security lights,3,65.5,0,
+900012746,Becky Seneschal,Senior Sales Representative,N Central East,1204006,"2024-01-11",Retail,Individual,4007020,Eden Baldwin,Texas,Lightbulbs,KESL094,K-Eco Smart Bulbs 9W dimmable (4-pack),5,29.25,,146.25
+900010836,Constantine Acosta,Senior Sales Representative,Northwest,1204007,"2024-01-13",Wholesale,Business,6007102,Premier Foods,Washington,Grid Tie Inverters,KIGT013,K-Invert 13K,2,3510,0.1,6318
+900018483,Kendra Barnbrook,Senior Sales Associate,S Central East,1204008,"2024-01-14",Retail,Individual,4007065,Devin Key,Texas,Landscape lighting,KECL060,Bistro String lights - 60 ft - Multicolor,1,59.99,0,59.99
+900010859,Nick Chen,Sales Representative,S Central East,1204009,"2024-01-16",Wholesale,Business,6007115,Sunflower Supply,Texas,Lightbulbs,KELB234,K-Eco Energy Bulbs 23W (4-pack),7,18.99,0.07,123.73
+900012281,Logan Augur,Sales Associate I,S Central West,1204010,"2024-01-18",Retail,Individual,4007093,Blake Jordan,Arizona,Solar panels,KESP200,K-Eco 200,2,654,0,1308
+900010859,Nick Chen,Sales Representative,S Central East,1204011,"2024-01-20",Retail,Individual,4007177,Isla Dean,Louisiana,Solar panels,KESP255,K-Eco 250x,1,869,0,
+900010836,Constantine Acosta,Senior Sales Representative,Northwest,1204012,"2024-01-21",Wholesale,Business,6007220,Lumos Inc,Washington,Grid Tie Inverters,KIGT013,K-Invert 13K,2,,0.1,6318
+900015105,Sharla Sobie,Sales Representative,Northeast,1204013,"2024-01-22",Retail,Individual,4007022,Reed Kramer,New Jersey,Lightbulbs,KESL094,K-Eco Smart Bulbs 9W dimmable (4-pack),2,29.25,0,58.5
+900012746,Becky Seneschal,Senior Sales Representative,N Central East,1204014,"2024-01-23",Retail,Individual,4007112,Monroe Jarvis,Ohio,Batteries,KEBA308,K-Eco AAA NiMH rechargeable batteries (8-pack),4,9.99,0,
+900010453,Susan Fetterman,Senior Sales Representative,Central East,1204015,"2024-01-25",Retail,Individual,4007009,Aubrey Nichols,Illinois,Solar panels,KESP200,K-Eco 200,,654,0,2616
+900019019,Alexandra Kundt,Senior Sales Associate,S Central East,1204016,"2024-01-26",Retail,Individual,4007205,Kai Maddox,Texas,Landscape lighting,KERL500,Rope lights - Purple,2,26.99,0,53.98
+900012281,Logan Augur,Sales Associate I,S Central West,1204017,"2024-01-28",Retail,Individual,4007302,Casey Faulkner,Arizona,Lightbulbs,KELB208,K-Eco Energy Bulbs 20W  (8-pack),3,,0,86.1
+900016320,Paul Massimo,Sales Associate II,S Central East,1204018,"2024-01-29",Retail,Business,6007025,GreenSide Co.,Texas,Batteries,KEBA312,K-Eco AAA NiMH rechargeable batteries (12-pack),5,13.99,0,69.95
+900010836,Constantine Acosta,Senior Sales Representative,Northwest,1204019,"2024-01-31",Retail,Individual,4007188,Sasha Holloway,Washington,Lightbulbs,KELB094,K-Eco Energy Bulbs 9W (4-pack),4,12.97,0,51.88
+900010859,Nick Chen,Sales Representative,S Central East,1204020,"2024-02-02",Wholesale,Business,,Beechwood Café,Texas,Lightbulbs,KESL094,K-Eco Smart Bulbs 9W dimmable (4-pack),6,29.25,0.05,166.43
+900019273,Michelle Tiffany,Sales Representative,Central East,1204021,"2024-02-04",Retail,Individual,4007399,Jamie Rivera,District of Columbia,Landscape lighting,KESC100,Security lights,2,65.5,0,
+900012349,Clement Carry,Sales Associate I,Southeast,1204022,"2024-02-06",Retail,Individual,4007422,Rory Santiago,Alabama,Batteries,KEBA312,K-Eco AAA NiMH rechargeable batteries (12-pack),4,13.99,,55.96
+900010453,Susan Fetterman,Senior Sales Representative,N Central East,1204023,"2024-02-08",Retail,Individual,4007520,Riley Duran,Illinois,Wind harvester,KEWH005,K-Eco Breeze Mini ,1,55,0,55
+900012746,Becky Seneschal,Senior Sales Representative,N Central East,1204024,"2024-02-09",Retail,Individual,4007555,Theo Finch,Ohio,Lightbulbs,KELB208,K-Eco Energy Bulbs 20W  (8-pack),2,28.7,0,57.4
+900018483,Kendra Barnbrook,Senior Sales Associate,S Central East,1204025,"2024-02-11",Retail,Individual,4007444,Milo Gallegos,Missouri,Landscape lighting,KESC100,Security lights,2,65.5,0,131
+900015105,Sharla Sobie,Sales Representative,Northeast,1204026,"2024-02-13",Retail,Individual,4007653,Kaylen Salas,New Jersey,Batteries,KEBA308,K-Eco AAA NiMH rechargeable batteries (8-pack),5,9.99,0,49.95
+900012349,Clement Carry,Sales Associate I,Southeast,1204027,"2024-02-14",Retail,Individual,4007777,Frankie Baxter,Alabama,Lightbulbs,KELB234,K-Eco Energy Bulbs 23W (4-pack),,18.99,0,56.97
+900019019,Alexandra Kundt,Senior Sales Associate,S Central East,1204028,"2024-02-15",Retail,Individual,4007850,Juno Melendez,Louisiana,Landscape lighting,KERL500,Rope lights - Purple,1,26.99,0,26.99
+900016320,Paul Massimo,Sales Associate II,S Central East,1204029,"2024-02-16",Retail,Business,6007808,SunNova Supply,Texas,Solar panels,KESP275,K-Eco 275,2,899.25,0.1,
+900012281,Logan Augur,Sales Associate I,S Central West,1204030,"2024-02-18",Retail,Individual,4007811,Atlas Vaughn,Arizona,Lightbulbs,KELB094,K-Eco Energy Bulbs 9W (4-pack),4,,0,51.88
+900010859,Nick Chen,Sales Representative,S Central East,1204031,"2024-02-19",Wholesale,Business,6007882,Sierra Goods,Texas,Batteries,KEBA312,K-Eco AAA NiMH rechargeable batteries (12-pack),4,13.99,0.05,53.17
+900012746,Becky Seneschal,Senior Sales Representative,N Central East,1204032,"2024-02-21",Retail,Individual,4007955,Imani Finley,Ohio,Lightbulbs,KESL094,K-Eco Smart Bulbs 9W dimmable (4-pack),2,29.25,0,58.5
+900019019,Alexandra Kundt,Senior Sales Associate,S Central East,1204033,"2024-02-22",Retail,Individual,,Taylor Ferrell,Texas,Solar panels,KESP255,K-Eco 250x,1,869,0,869
+900010836,Constantine Acosta,Senior Sales Representative,Northwest,1204034,"2024-02-23",Wholesale,Business,6007990,Archimedes Labs,Washington,Grid Tie Inverters,KIGT013,K-Invert 13K,3,3510,0.15,8942.25
+900010453,Susan Fetterman,Senior Sales Representative,N Central East,1204035,"2024-02-24",Retail,Individual,4007024,Oaklee Maddox,Indiana,Wind harvester,KEWH005,K-Eco Breeze Mini ,2,55,0,110
+900012349,Clement Carry,Sales Associate I,Southeast,1204036,"2024-02-26",Retail,Individual,4008123,Selene Gaines,Alabama,Batteries,KEBA312,K-Eco AAA NiMH rechargeable batteries (12-pack),6,13.99,0,83.94
+900019273,Michelle Tiffany,Sales Representative,Central East,1204037,"2024-02-28",Retail,Individual,4008233,Jonas Beck,Missouri,Lightbulbs,KELB208,K-Eco Energy Bulbs 20W  (8-pack),2,28.7,0,57.4
+900010453,Susan Fetterman,Senior Sales Representative,Central East,1204038,"2024-03-01",Retail,Individual,4008251,Nina Dalton,North Carolina,Solar panels,KESP255,K-Eco 250x,2,869,0,1738
+900010836,Constantine Acosta,Senior Sales Representative,Northwest,1204039,"2024-03-03",Wholesale,Business,6008344,Greenhub Solar,Washington,Grid Tie Inverters,KIGT013,K-Invert 13K,1,3510,0.1,3159
+900012281,Logan Augur,Sales Associate I,S Central West,1204040,"2024-03-04",Retail,Individual,4008287,Mariella Sweet,Arizona,Lightbulbs,KELB094,K-Eco Energy Bulbs 9W (4-pack),4,12.97,0,51.88
+900018483,Kendra Barnbrook,Senior Sales Associate,S Central East,1204041,"2024-03-06",Retail,Individual,4008331,Daniela Munoz,Louisiana,Landscape lighting,KECL060,Bistro String lights - 60 ft - Multicolor,1,59.99,0,59.99
+900012349,Clement Carry,Sales Associate I,Southeast,1204042,"2024-03-07",Retail,Individual,4008355,Wyatt Goodwin,Alabama,Batteries,KEBA308,K-Eco AAA NiMH rechargeable batteries (8-pack),3,9.99,0,29.97
+900015105,Sharla Sobie,Sales Representative,Northeast,1204043,"2024-03-08",Retail,Individual,4008420,Samira Rowe,New Jersey,Lightbulbs,KESL094,K-Eco Smart Bulbs 9W dimmable (4-pack),2,29.25,0,58.5
+900010859,Nick Chen,Sales Representative,S Central East,1204044,"2024-03-10",Wholesale,Business,6008455,Solnet Solutions,Texas,Lightbulbs,KELB234,K-Eco Energy Bulbs 23W (4-pack),8,18.99,0.07,141.29
+900019019,Alexandra Kundt,Senior Sales Associate,S Central East,1204045,"2024-03-11",Retail,Individual,4008511,Jasmine Leal,Texas,Landscape lighting,KESC100,Security lights,2,65.5,0,131
+900010453,Susan Fetterman,Senior Sales Representative,N Central East,1204046,"2024-03-13",Retail,Individual,4008576,Roman Gillespie,Illinois,Wind harvester,KEWH005,K-Eco Breeze Mini ,1,55,0,55
+900016320,Paul Massimo,Sales Associate II,S Central East,1204047,"2024-03-14",Retail,Business,6008603,Altira Systems,Texas,Solar panels,KESP275,K-Eco 275,2,899.25,0,1798.5
+900019273,Michelle Tiffany,Sales Representative,Central East,1204048,"2024-03-16",Retail,Individual,4008638,Dior Henson,District of Columbia,Batteries,KEBA312,K-Eco AAA NiMH rechargeable batteries (12-pack),5,13.99,0,69.95
+900012281,Logan Augur,Sales Associate I,S Central West,1204049,"2024-03-17",Retail,Individual,4008699,Harlan Duffy,Arizona,Lightbulbs,KELB208,K-Eco Energy Bulbs 20W  (8-pack),3,28.7,0,86.1
+900012746,Becky Seneschal,Senior Sales Representative,N Central East,1204050,"2024-03-18",Retail,Individual,4008722,Tori Hanley,Ohio,Lightbulbs,KESL094,K-Eco Smart Bulbs 9W dimmable (4-pack),4,29.25,0,117
+900010836,Constantine Acosta,Senior Sales Representative,Northwest,1204051,"2024-03-20",Wholesale,Business,6008751,Eco Current,Washington,Grid Tie Inverters,KIGT013,K-Invert 13K,2,3510,0.15,5967
+900012349,Clement Carry,Sales Associate I,Southeast,1204052,"2024-03-21",Retail,Individual,4008785,Olive Morales,Alabama,Lightbulbs,KELB094,K-Eco Energy Bulbs 9W (4-pack),3,12.97,0,38.91
+900010859,Nick Chen,Sales Representative,S Central East,1204053,"2024-03-22",Wholesale,Business,6008820,Riverlight Co.,Texas,Lightbulbs,KELB234,K-Eco Energy Bulbs 23W (4-pack),5,18.99,0.05,90.2
+900010453,Susan Fetterman,Senior Sales Representative,N Central East,1204054,"2024-03-24",Retail,Individual,4008844,Phoenix Tran,Indiana,Landscape lighting,KECL100,Bistro String lights - 100 ft- Multicolor,2,89.99,0,179.98
+900018483,Kendra Barnbrook,Senior Sales Associate,S Central East,1204055,"2024-03-25",Retail,Individual,4008883,Axton Charles,Missouri,Landscape lighting,KESC100,Security lights,3,65.5,0,196.5
+900012746,Becky Seneschal,Senior Sales Representative,N Central East,1204056,"2024-03-26",Retail,Individual,4008900,Rowan Case,Ohio,Batteries,KEBA308,K-Eco AAA NiMH rechargeable batteries (8-pack),4,9.99,0,39.96
+
